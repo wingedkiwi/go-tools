@@ -11,7 +11,6 @@ go-tools is a vendored collection of go development tools. The tools are updated
     - github.com/josharian/impl
     - github.com/jstemmer/gotags
     - github.com/kisielk/errcheck
-    - github.com/kisielk/gotool
     - github.com/nsf/gocode
     - github.com/rogpeppe/godef
     - golang.org/x/tools/cmd/oracle
